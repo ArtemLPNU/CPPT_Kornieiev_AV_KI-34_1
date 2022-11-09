@@ -1,0 +1,61 @@
+[2022-11-09 at 15:28:59 EET] Logger start to work
+[2022-11-09 at 15:28:59 EET] [INFO] Plant constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree constructor was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree GrowUp method was called was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf GrowUp method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf PrintInfo was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant Wither was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Leaf Wither method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree ToDropLeaves method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Plant getAge was called
+[2022-11-09 at 15:28:59 EET] [INFO] Tree PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
+[2022-11-09 at 15:28:59 EET] [INFO] Branch PrintInfo method was called
